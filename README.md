@@ -1,4 +1,4 @@
-<h1 align="center"><img src= "images/Tango.jpg" height="250"><img src= "images/Hawk.jpg" height="250"><img src= "images/Leopard.jpg" height="250"><img src= "images/Gorilla.jpg" height="250"><img src= "images/bobcat.jpg" height="250"></h1>
+<h1 align="center"><img src= "images/Tango.jpg" height="200"><img src= "images/Hawk.jpg" height="200"><img src= "images/Leopard.jpg" height="200"><img src= "images/Gorilla.jpg" height="200"><img src= "images/bobcat.jpg" height="200"></h1>
 
 <h2 align="center">Hello! 👋, I'm Chris or Topher! You're pick</h2>
 
