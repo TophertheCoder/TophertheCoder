@@ -1,6 +1,4 @@
-<h1 align="right"> <img src= "images/bobcat.jpg" height="100"> </h1>
-
-<h2 align="center">Hello! 👋, I'm Chris or Topher! You're pick</h2>
+<h1 align="center">Hello! 👋, I'm Chris or Topher! You're pick</h1>
 
 <h3 align="center">A passionate Data Scientist originally from Dover, New Jersey now residing in Denver, Colorado.</h3>
 
