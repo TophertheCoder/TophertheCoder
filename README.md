@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I love to play volleyball, baseball, and football and I can't not be friends with any dog I meet!**
 
 <h3 align="center"> Favorite Denzel Washington Quotes </h3>
+
 - "Luck is where opportunity meets preparation."
 
 - "If I'm a cup maker, I'm interested in making the best cup I possibly can. My effot goes into that cup, not what people think about it."
