@@ -1,4 +1,4 @@
-<h1 align="right"> <img src= "images/Gorilla.jpg" height="100"> </h1>
+<h1 align="right"> <img src= "images/bobcat.jpg" height="100"> </h1>
 
 <h2 align="center">Hello! 👋, I'm Chris or Topher! You're pick</h2>
 
