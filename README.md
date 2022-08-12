@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aguirre.christopher.d@gmail.com**
 
-- ⚡ Fun fact **My air drumming skills come second to none!**
+- ⚡ Fun fact **I love to play volleyball, baseball, and football and I can't not be friends with any dog I meet!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
