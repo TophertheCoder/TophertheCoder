@@ -20,7 +20,7 @@
 
 - "Luck is where opportunity meets preparation."
 
-- "If I'm a cup maker, I'm interested in making the best cup I possibly can. My effot goes into that cup, not what people think about it."
+- "If I'm a cup maker, I'm interested in making the best cup I possibly can. My effort goes into that cup, not what people think about it."
 
 - "Every day, sincerely and without phoniness, try to understand and appreciate the people who work with you. Do your job well, learn your job well, but always remember that the people you work with are your most valuable asset. Embrace them. Honor them. Respect them.”
 
